@@ -3,7 +3,7 @@
 
 ## 📌 Project Description
 
-This C program is a **University Management System** that allows you to manage students and professors in a structured academic environment. It uses **structures** (without typedef) and dynamic memory allocation (`malloc` and `calloc`) for flexible data handling.
+This C program is a **University Management System** that allows you to manage students and professors in a structured academic environment. It uses **structures and dynamic memory allocation (`malloc` and `calloc`) for flexible data handling.
 
 The system supports core functionalities like adding, modifying, deleting, sorting, and searching student records, as well as assigning students to professors and managing supervised relationships.
 
