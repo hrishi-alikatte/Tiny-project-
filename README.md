@@ -39,8 +39,7 @@ The system supports core functionalities like adding, modifying, deleting, sorti
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/university-management-system.git
-   cd university-management-system
+   git clone https://github.com/hrishi-alikatte/Tiny-project.git
 Compile the source code:
 gcc main.c -o ums
 Run the executable:
