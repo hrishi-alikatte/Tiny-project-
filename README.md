@@ -1,4 +1,4 @@
-# Tiny-project-
+
 # 🎓 University Student & Professor Management System in C
 
 ## 📌 Project Description
@@ -67,10 +67,3 @@ Data validation and user input handling
 
 
 ## 📃 License
-
-
-## Add GUI using GTK or ncurses
-- Implement authentication for admin/professors
-- Store data in CSV or SQLite for scalability
-- Add export/import options for data
-
