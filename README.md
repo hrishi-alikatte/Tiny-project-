@@ -44,30 +44,31 @@ Compile the source code:
 gcc main.c -o ums
 Run the executable:
 ./ums
+
 📸 Sample Screenshots
 
-Add terminal screenshots or demo GIF here (optional but recommended for visuals)
+## Add terminal screenshots or demo GIF here (optional but recommended for visuals)
 🧠 Concepts Covered
 
-Structures (struct keyword only)
+### Structures (struct keyword only)
 Dynamic memory allocation (malloc, calloc, free)
 File I/O in C
 Array of pointers
 Modular and menu-driven programming
 Data validation and user input handling
-👨‍💻 Author
 
-Hrishikesh Sidharth Alikatte
-📧 LinkedIn | 🌐 Data Science @ Ecole Centrale Lyon & EM Lyon Business School
-📃 License
+### 👨‍💻 Author
 
-This project is licensed under the MIT License.
-📝 To-Do / Future Enhancements
+- Hrishikesh Alikatte
+- Harshavardhan reddy
+- WU Zhongjie
 
-Add GUI using GTK or ncurses
-Implement authentication for admin/professors
-Store data in CSV or SQLite for scalability
-Add export/import options for data
 
-Let me know if you'd like a version that includes example terminal outputs or a badge-styled header. Happy coding! 🚀
+## 📃 License
+
+
+## Add GUI using GTK or ncurses
+- Implement authentication for admin/professors
+- Store data in CSV or SQLite for scalability
+- Add export/import options for data
 
