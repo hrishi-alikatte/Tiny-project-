@@ -49,6 +49,9 @@ Run the executable:
 
 📸 Sample Screenshots
 
+# <img width="1040" alt="Screenshot 2025-04-18 at 1 55 55 PM" src="https://github.com/user-attachments/assets/ff054a09-5036-4fee-827c-abc31b9ad777" />
+
+
 ## Add terminal screenshots or demo GIF here (optional but recommended for visuals)
 🧠 Concepts Covered
 
