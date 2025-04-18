@@ -31,3 +31,44 @@ The system supports core functionalities like adding, modifying, deleting, sorti
 
 ## 📂 Project Structure
 
+📦 university-management-system ├── main.c # Main source file with all functionalities ├── students.dat # Binary file to save and load data (created after running) └── README.md # Project documentation
+
+---
+
+## 🚀 How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/university-management-system.git
+   cd university-management-system
+Compile the source code:
+gcc main.c -o ums
+Run the executable:
+./ums
+📸 Sample Screenshots
+
+Add terminal screenshots or demo GIF here (optional but recommended for visuals)
+🧠 Concepts Covered
+
+Structures (struct keyword only)
+Dynamic memory allocation (malloc, calloc, free)
+File I/O in C
+Array of pointers
+Modular and menu-driven programming
+Data validation and user input handling
+👨‍💻 Author
+
+Hrishikesh Sidharth Alikatte
+📧 LinkedIn | 🌐 Data Science @ Ecole Centrale Lyon & EM Lyon Business School
+📃 License
+
+This project is licensed under the MIT License.
+📝 To-Do / Future Enhancements
+
+Add GUI using GTK or ncurses
+Implement authentication for admin/professors
+Store data in CSV or SQLite for scalability
+Add export/import options for data
+
+Let me know if you'd like a version that includes example terminal outputs or a badge-styled header. Happy coding! 🚀
+
