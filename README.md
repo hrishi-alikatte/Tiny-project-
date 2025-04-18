@@ -31,13 +31,12 @@ The system supports core functionalities like adding, modifying, deleting, sorti
 
 ## 📂 Project Structure
 
-📦 university-management-system 
-├── main.c # Main source file with all functionalities 
-├── students.dat # Binary file to save and load data (created after running) 
-└── README.md # Project documentation
+### 📦 university-management-system 
+- ├── main.c # Main source file with all functionalities 
+- ├── students.dat # Binary file to save and load data (created after running) 
+- └── README.md # Project documentation
 
 ---
-
 ## 🚀 How to Run
 
 1. **Clone the repository**:
